@@ -19,7 +19,7 @@ public class BrandTest {
     @Test
     public void testSelectAll() throws Exception {
         Properties prop =new Properties();
-        prop.load(new FileInputStream("F:\\HM_JAVA\\javaweb\\jdbc\\jdbcdemo\\src\\druid.properties"));
+        prop.load(new FileInputStream("F:\\JavaLearningRoad\\JavaWeb_Learning\\jdbc\\druid.properties"));
 
         DataSource dataSource = DruidDataSourceFactory.createDataSource(prop);
 
@@ -58,7 +58,7 @@ public class BrandTest {
     @Test
     public void testAdd() throws Exception {
         Properties prop =new Properties();
-        prop.load(new FileInputStream("F:\\HM_JAVA\\jdbc\\jdbcdemo\\src\\druid.properties"));
+        prop.load(new FileInputStream("F:\\JavaLearningRoad\\JavaWeb_Learning\\jdbc\\druid.properties"));
 
         DataSource dataSource = DruidDataSourceFactory.createDataSource(prop);
 
@@ -90,7 +90,7 @@ public class BrandTest {
     @Test
     public void testUpdate() throws Exception {
         Properties prop =new Properties();
-        prop.load(new FileInputStream("F:\\HM_JAVA\\jdbc\\jdbcdemo\\src\\druid.properties"));
+        prop.load(new FileInputStream("F:\\JavaLearningRoad\\JavaWeb_Learning\\jdbc\\druid.properties"));
 
         DataSource dataSource = DruidDataSourceFactory.createDataSource(prop);
 
@@ -115,7 +115,7 @@ public class BrandTest {
     @Test
     public void testDelete() throws Exception {
         Properties prop =new Properties();
-        prop.load(new FileInputStream("F:\\HM_JAVA\\jdbc\\jdbcdemo\\src\\druid.properties"));
+        prop.load(new FileInputStream("F:\\JavaLearningRoad\\JavaWeb_Learning\\jdbc\\druid.properties"));
 
         DataSource dataSource = DruidDataSourceFactory.createDataSource(prop);
 
