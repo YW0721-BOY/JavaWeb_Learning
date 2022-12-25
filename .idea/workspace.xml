@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9969ca0d-fd4f-4074-b946-1edba859747a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven/Maven.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven/img/image-20221223110019150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven/img/image-20221223114613912.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven/img/image-20221223114636397.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven/src/main/java/HelloMaven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven/src/test/java/TestMaven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/src/com/HM/example/BrandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/src/com/HM/example/BrandTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maven/maven.iml" beforeDir="false" afterPath="$PROJECT_DIR$/maven/maven.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +40,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -70,10 +56,11 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="build.tools" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -133,7 +120,8 @@
       <updated>1671729351932</updated>
       <workItem from="1671729353273" duration="359000" />
       <workItem from="1671762791825" duration="8248000" />
-      <workItem from="1671776475332" duration="2355000" />
+      <workItem from="1671776475332" duration="3582000" />
+      <workItem from="1671937477589" duration="367000" />
     </task>
     <servers />
   </component>
